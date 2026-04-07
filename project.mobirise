@@ -67,7 +67,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/consultant-1280x854.jpg"
+        "socialSharingUrl": "https://vecveterinary.com/wp-content/uploads/2024/06/asian-woman-with-welsh-corgi-pembroke-dog-with-parent.jpg"
       },
       "components": [
         {
@@ -6771,7 +6771,6 @@
       "settings": {
         "title": "Vec Vertinary Clinnic @ PJ | Laboratory Tests",
         "order": "1",
-        "meta_image": "@PROJECT_PATH@/assets/images/diagnostic-imaging-1-393x259.jpg",
         "meta_descr": "At VEC Clinic in Petaling Jaya, our experienced veterinarians deliver expert diagnostic and emergency care to support your cats and dogs at every life stage. We strive for accurate diagnoses and timely treatments for complex cases or urgent needs."
       },
       "components": [

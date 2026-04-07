@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site 2026-04-06 10:55",
-    "currentPage": "services_vertinaryservices.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1536,7 +1536,8 @@
         "title": "Vec Vertinary Clinnic @ PJ | About Us",
         "order": "6",
         "socialSharingUrl": "",
-        "meta_descr": "VEC Veterinary Clinic is a well-established, full-service veterinary clinic located in the heart of Petaling Jaya. We provide comprehensive medical, surgical and dental care for dogs and cats, as well as other exotic animals."
+        "meta_descr": "VEC Veterinary Clinic is a well-established, full-service veterinary clinic located in the heart of Petaling Jaya. We provide comprehensive medical, surgical and dental care for dogs and cats, as well as other exotic animals.",
+        "meta_image": "@PROJECT_PATH@/assets/images/unnamed.webp"
       },
       "components": [
         {
@@ -2674,7 +2675,8 @@
       "settings": {
         "title": "Vec Vertinary Clinnic @ PJ | Services",
         "order": "5",
-        "meta_descr": "At VEC Clinic, we provide a full range of veterinary services for cats and dogs. From routine check-ups and vaccinations to dental care, surgery, and emergency treatment, our experienced team ensures your pets receive the highest quality care in a compassionate and stress-free environment."
+        "meta_descr": "At VEC Clinic, we provide a full range of veterinary services for cats and dogs. From routine check-ups and vaccinations to dental care, surgery, and emergency treatment, our experienced team ensures your pets receive the highest quality care in a compassionate and stress-free environment.",
+        "meta_image": "@PROJECT_PATH@/assets/images/pet-chemotherapy-2155411432-860x574-opt.webp"
       },
       "components": [
         {
@@ -3817,7 +3819,8 @@
       "settings": {
         "title": "Vec Vertinary Clinnic @ PJ | Find Us",
         "order": "4",
-        "meta_descr": "Located in Petaling Jaya, VEC Veterinary Clinic is easy to reach. View our location on the map, follow us on social media, or message us on WhatsApp for fast support and bookings."
+        "meta_descr": "Located in Petaling Jaya, VEC Veterinary Clinic is easy to reach. View our location on the map, follow us on social media, or message us on WhatsApp for fast support and bookings.",
+        "meta_image": "@PROJECT_PATH@/assets/images/01-900x600.jpg"
       },
       "components": [
         {
@@ -5780,7 +5783,8 @@
       "settings": {
         "title": "Vec Vertinary Clinnic @ PJ | Vertinary Services",
         "order": "3",
-        "meta_descr": "At VEC Clinic in Petaling Jaya, we provide compassionate, full-spectrum veterinary care to keep your cats and dogs healthy at every life stage. Our cat-friendly clinic combines expert medicine with a stress-free environment, ensuring your pet receives the best possible care—whether for routine visits or complex condition"
+        "meta_descr": "At VEC Clinic in Petaling Jaya, we provide compassionate, full-spectrum veterinary care to keep your cats and dogs healthy at every life stage. Our cat-friendly clinic combines expert medicine with a stress-free environment, ensuring your pet receives the best possible care—whether for routine visits or complex condition",
+        "meta_image": "@PROJECT_PATH@/assets/images/consultant-1280x854.jpg"
       },
       "components": [
         {

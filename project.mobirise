@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site 2026-04-06 10:55",
-    "currentPage": "services.html",
+    "currentPage": "services_vertinaryservices.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -4791,7 +4791,8 @@
         "title": "Vec Vertinary Clinnic @ PJ | Surgery",
         "order": "2",
         "socialSharingUrl": "",
-        "meta_descr": "At VEC Clinic in Petaling Jaya, we deliver compassionate, full-spectrum surgical care to ensure your pets—cats and dogs—receive the best treatment at every life stage. Our pet-friendly clinic blends expert surgical expertise with a stress-free environment, ensuring your pet gets top-notch care—whether for routine procedures or complex conditions."
+        "meta_descr": "At VEC Clinic in Petaling Jaya, we deliver compassionate, full-spectrum surgical care to ensure your pets—cats and dogs—receive the best treatment at every life stage. Our pet-friendly clinic blends expert surgical expertise with a stress-free environment, ensuring your pet gets top-notch care—whether for routine procedures or complex conditions.",
+        "meta_image": "@PROJECT_PATH@/assets/images/nerve-spine-surgery-393x259.jpg"
       },
       "components": [
         {
@@ -6766,7 +6767,7 @@
       "settings": {
         "title": "Vec Vertinary Clinnic @ PJ | Laboratory Tests",
         "order": "1",
-        "meta_image": "@PROJECT_PATH@/assets/images/consultant-1280x854.jpg",
+        "meta_image": "@PROJECT_PATH@/assets/images/diagnostic-imaging-1-393x259.jpg",
         "meta_descr": "At VEC Clinic in Petaling Jaya, our experienced veterinarians deliver expert diagnostic and emergency care to support your cats and dogs at every life stage. We strive for accurate diagnoses and timely treatments for complex cases or urgent needs."
       },
       "components": [

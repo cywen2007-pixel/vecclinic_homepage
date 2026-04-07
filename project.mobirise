@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site 2026-04-06 10:55",
-    "currentPage": "index.html",
+    "currentPage": "aboutus.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -62,7 +62,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Vec Vertinary Clinic in PJ | Open Utill Night | Prefer Cat and Dogs",
+        "title": "Vec Vertinary Clinic @ PJ | Open Utill Night | Prefer Cat and Dogs",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1533,7 +1533,7 @@
     },
     "aboutus.html": {
       "settings": {
-        "title": "Vec Vertinary Clinnic in PJ | About Us",
+        "title": "Vec Vertinary Clinnic @ PJ | About Us",
         "order": "6",
         "socialSharingUrl": ""
       },
@@ -2671,7 +2671,7 @@
     },
     "services.html": {
       "settings": {
-        "title": "Vec Vertinary Clinnic in PJ | Services",
+        "title": "Vec Vertinary Clinnic @ PJ | Services",
         "order": "5"
       },
       "components": [
@@ -3813,7 +3813,7 @@
     },
     "findus.html": {
       "settings": {
-        "title": "Vec Vertinary Clinnic in PJ | Find Us",
+        "title": "Vec Vertinary Clinnic @ PJ | Find Us",
         "order": "4"
       },
       "components": [
@@ -4785,7 +4785,7 @@
     },
     "services_surgery.html": {
       "settings": {
-        "title": "Vec Vertinary Clinnic in PJ | Surgery",
+        "title": "Vec Vertinary Clinnic @ PJ | Surgery",
         "order": "2",
         "socialSharingUrl": "",
         "meta_descr": ""
@@ -5774,7 +5774,7 @@
     },
     "services_vertinaryservices.html": {
       "settings": {
-        "title": "Vec Vertinary Clinnic in PJ | Vertinary Services",
+        "title": "Vec Vertinary Clinnic @ PJ | Vertinary Services",
         "order": "3"
       },
       "components": [
@@ -6760,7 +6760,7 @@
     },
     "services_laboratorytest.html": {
       "settings": {
-        "title": "Vec Vertinary Clinnic in PJ | Laboratory Tests",
+        "title": "Vec Vertinary Clinnic @ PJ | Laboratory Tests",
         "order": "1",
         "meta_image": "@PROJECT_PATH@/assets/images/consultant-1280x854.jpg"
       },
